@@ -1,0 +1,9 @@
+loadTestingConfigurationLoadedCallback(
+  {
+    "enabled": false,
+    "enabledPermill": 1000,
+    "intervalBetweenRequestsInMilliseconds": 1000,
+    "targetHttpMethod": "GET",
+    "targetUrl": "https://apis.sitetest1.robloxlabs.com/universal-app-configuration/v1/behaviors/app-launch/content"
+  }
+);
